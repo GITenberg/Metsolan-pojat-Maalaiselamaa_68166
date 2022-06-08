@@ -1,0 +1,41 @@
+_repo: Metsolan-pojat-Maalaiselamaa_68166
+_version: 0.0.1
+alternative_title: Pojkarna på Metsola. Finnish
+contributor:
+  translator:
+    agent_name: Reijonen, Sohvi
+    birthdate: 1864
+    deathdate: 1930
+    gutenberg_agent_id: '44026'
+    url: http://www.gutenberg.org/2009/agents/44026
+    wikipedia: https://fi.wikipedia.org/wiki/Sohvi_Reijonen
+creator:
+  author:
+    agent_name: Nylander, John William
+    alias: Nylander, John Williams
+    birthdate: 1869
+    deathdate: 1949
+    gutenberg_agent_id: '54636'
+    url: http://www.gutenberg.org/2009/agents/54636
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/John_William_Nylander
+    - https://fi.wikipedia.org/wiki/John_William_Nylander
+description: ''
+gutenberg_issued: '2022-05-25'
+identifiers:
+  gutenberg: '68166'
+language: fi
+pgterms:marc905: 20220218012857nylander
+pgterms:marc906: '1908'
+pgterms:marc907: FI
+production_note: Anna Siren and Tapio Riikonen
+publication_note: Finland :Söderström & Co.,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- GITenberg
+title: 'Metsolan pojat: Maalaiselämää'
+url: http://www.gutenberg.org/ebooks/68166
