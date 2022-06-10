@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '44026'
     url: http://www.gutenberg.org/2009/agents/44026
     wikipedia: https://fi.wikipedia.org/wiki/Sohvi_Reijonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nylander, John William
@@ -21,6 +24,8 @@ creator:
     - https://sv.wikipedia.org/wiki/John_William_Nylander
     - https://fi.wikipedia.org/wiki/John_William_Nylander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68166#Metsolan-pojat-Maalaiselamaa
 gutenberg_issued: '2022-05-25'
 identifiers:
   gutenberg: '68166'
